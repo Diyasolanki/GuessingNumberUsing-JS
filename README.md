@@ -1,6 +1,9 @@
-<h2>Hello Connections.. Welcome To My GitHub Page</h1>
-<br>
-<h2>This is simple number guessing game made to showcase JavaScript learning </h2>
-<br>
-<h3>I want to appreciate my dear best friend for everytime encourage me to do well.😊</h3>
+Hello Connections..
+This is simple number guessing game made to showcase my JavaScript learning.
 
+
+
+![Screenshot (232)](https://github.com/user-attachments/assets/c877f7b7-4ff4-448c-ac68-2d0df3b77550)
+![Screenshot (237)](https://github.com/user-attachments/assets/58e7bb3c-bad1-4710-8cc1-9589f143690c)
+![Uploading Screenshot (235).png…]()
+![Uploading Screenshot (236).png…]()
